@@ -30,6 +30,5 @@ public class Datatypes {
             System.out.println(longNum);
             System.out.println(floatNum);
             System.out.println(doubleNum);
-
         }
 }
