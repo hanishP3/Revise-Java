@@ -4,7 +4,7 @@
     Compiling the program
     Running the program
  */
-
+package basics;
 class HelloWorld{
     public static void main(String args[]){
         System.out.println("hello world");
