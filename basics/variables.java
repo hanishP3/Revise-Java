@@ -1,10 +1,11 @@
   /*There are 3 types of varaibles in java
-         * 1.Local varaibles
-         * 2.instance varaibles
+         * 1.Local variables
+         * 2.instance variables
          * 3.static variables
          * 
-         * Local varaible-A varibles defined under a method or constuctor or block is known as local variable
-         * 
+         * Local variable-A varibles defined under a method or constuctor or block is known as local variable
+         * Static variable - These variables are declared similarly to instance variables. The difference is that static variables are declared using the static keyword within a class outside of any method, constructor, or block.
+         * Instance variables -  non-static variables and are declared in a class outside of any method, constructor, or block
          */
 
 package basics;
@@ -17,6 +18,8 @@ public class variables {
         System.out.println(num);
         //Static variable
         System.out.println(name);
-        
+        //Instance variable
+        int b = 909;
+        System.out.println(b);
     }
 }
