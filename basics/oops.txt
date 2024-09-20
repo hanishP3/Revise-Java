@@ -1,0 +1,31 @@
+Java OOPS concept
+1.Object
+2.Class
+3.Inheritance
+4.Polymorphism
+5.Abstraction
+6.Encapsulation
+
+1.Object
+An Object is an real world entity such as pen,book,bike etc..
+An object is an instance of class.
+An object has a state and behavior.
+An object contains an address and takes up some space in memory
+Objects can communicate without knowing the details of each other's data or code.
+
+2.Class
+A class can also be defined as a blueprint from which you can create an individual object. Class doesn't consume any space
+
+3.Inheritance
+When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.
+
+4.Polymorphism
+A one task is performed in different ways, it is known as polymorphism.
+In Java, we use method overloading and method overriding to achieve polymorphism.
+
+5.Abstraction
+Hiding internal details and showing functionality is known as abstraction.
+In Java, we use abstract class and interface to achieve abstraction.
+
+6.Encapsulation
+Binding (or wrapping) code and data together into a single unit are known as encapsulation
