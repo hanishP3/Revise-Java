@@ -4,7 +4,7 @@
     Non-Primitive Data Type or Object Data type: such as String, Array, etc.
  */
 
-package basics;
+package basics.Datatypes;
 
 public class Datatypes {
         public static void main(String[] args){

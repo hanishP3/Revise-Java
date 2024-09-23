@@ -1,4 +1,4 @@
-package basics;
+package basics.Loops;
 public class LoopExample {
     public static void main(String[] args) {
         // For Loop: Print numbers from 1 to 5

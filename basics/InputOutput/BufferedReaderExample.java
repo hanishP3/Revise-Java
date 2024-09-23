@@ -4,7 +4,7 @@
     2.Scanner Class
  * 
  */
-package basics;
+package basics.InputOutput;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

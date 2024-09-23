@@ -8,7 +8,7 @@
          * Instance variables -  non-static variables and are declared in a class outside of any method, constructor, or block
          */
 
-package basics;
+package basics.Variables;
 public class variables {
 
     static String name = "hanish";

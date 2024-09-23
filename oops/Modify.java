@@ -1,5 +1,5 @@
 
-package basics;
+package oops;
     class Dog {
         // Declaring and initializing the attributes
         String breed = "cat";

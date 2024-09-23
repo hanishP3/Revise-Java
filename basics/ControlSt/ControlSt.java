@@ -8,7 +8,7 @@
  */
 
 //1.Decision making - if,if-else,if-else-if.
-package basics;
+package basics.ControlSt;
 import java.util.*;
 public class ControlSt{
     public static void main(String[] args) {

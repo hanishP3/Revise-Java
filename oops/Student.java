@@ -1,6 +1,6 @@
 //Program to illustrate class and object
 //main method within a class
-package basics;
+package oops;
 class Student{
     int id = 45;
     String name = "hanish";
