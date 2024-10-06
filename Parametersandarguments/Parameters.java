@@ -5,7 +5,7 @@
     from below String  name , int age are parameters.
                 hanish,21 and others are called arguments.
  */
-package parametersandarguments;
+package Parametersandarguments;
 public class Parameters {
     static void myMethod(String name,int age){
         System.out.println("hi " +name+ " your age is " +age);
