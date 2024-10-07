@@ -18,5 +18,6 @@ public class Strings {
         // JVM will create a new string object in normal (non-pool) heap memory and the literal “str1” will be placed in the string constant pool. The variable s will refer to the object in the heap (non-pool)//
         System.out.println(str1);
 
+        
 }
 }
