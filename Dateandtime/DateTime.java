@@ -5,6 +5,6 @@ import java.util.*;
 public class DateTime {
     public static void main(String[] args) {
         Date date = new Date();
-        System.out.println();
+        System.out.println(date);
     }
 }
